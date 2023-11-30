@@ -7,6 +7,8 @@ The Forest Service is considering a proposal to place in conservancy a forest of
 
 **Branch**: animal-crud-actions
 
+Animal common_name:string scientific_binomial:string
+
 **Acceptance Criteria**
 
 - Create a resource for animal with the following information: common name and scientific binomial
@@ -19,7 +21,6 @@ The Forest Service is considering a proposal to place in conservancy a forest of
 
 **Branch**: sighting-crud-actions
 
-Animal common_name:string scientific_binomial:string
 
 
 
